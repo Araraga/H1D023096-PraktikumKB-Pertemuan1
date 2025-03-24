@@ -47,6 +47,5 @@ def tampilkan_skor():
         print(f"{i}. Percobaan: {skor['Percobaan']}, Waktu: {skor['Waktu']}")
     print()
 
-# Menjalankan program
 if __name__ == "__main__":
     main()
